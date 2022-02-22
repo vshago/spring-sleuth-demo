@@ -1,0 +1,5 @@
+rootProject.name = 'spring-sleuth-demo'
+include 'user-service'
+include 'bonus-service'
+include 'notification-service'
+
